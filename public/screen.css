@@ -16,7 +16,8 @@ body {
   color: rgb(14, 14, 14);
 }
 
-body, html {
+body,
+html {
   height: 100%;
 }
 
@@ -43,7 +44,11 @@ h1 {
   font-size: 2rem;
 }
 
-.team-1-score, .team-2-score {
+.team-1-score,
+.team-2-score {
   text-align: center;
   font-size: 5rem;
+}
+.hide {
+  display: none;
 }
